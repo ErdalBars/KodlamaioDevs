@@ -1,10 +1,10 @@
-package kodlama.io.rentACar;
+package kodlama.io.KodlamaioDevs;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RentACarApplicationTests {
+class KodlamaioDevsApplicationTests {
 
 	@Test
 	void contextLoads() {
